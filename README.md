@@ -79,7 +79,10 @@
 
 <h2 align="center"> 🧑‍💻 Feeding... </h2>
 
-![Snake animation](https://raw.githubusercontent.com/Ansh-Aggarwal/Ansh-Aggarwal/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnshAggarwal011/Ansh-Aggarwal/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 
 
