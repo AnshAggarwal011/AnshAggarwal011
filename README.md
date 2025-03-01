@@ -1,22 +1,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ansh+Aggarwal!;" />
 </h1>
-<h3 align="center">Aspiring Software Developer | Web Development & Problem-Solving Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h2 align="center">Aspiring Software Developer | Web Development & Problem-Solving Enthusiast</h2>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 - 💬 Ask me about **MERN, NestJS, NextJS**
 
 - 📫 How to reach me **anshaggarwal1007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14yWJQG3hE3cL3zX6II4lS-I6eUMs8Ks_/view?usp=drive_link](https://drive.google.com/file/d/14yWJQG3hE3cL3zX6II4lS-I6eUMs8Ks_/view?usp=drive_link)
+- 📄 Know about my experiences [Ansh_Resume](https://drive.google.com/file/d/14yWJQG3hE3cL3zX6II4lS-I6eUMs8Ks_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/@anshagg2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@anshagg2003" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/@anshagg2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@anshagg2003" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 <p align="center">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -76,6 +76,10 @@
     </a>
 </p>
 
+
+<h2 align="center"> 🧑‍💻 Feeding... </h2>
+
+![Snake animation](https://raw.githubusercontent.com/Ansh-Aggarwal/Ansh-Aggarwal/output/github-contribution-grid-snake-dark.svg)
 
 
 
