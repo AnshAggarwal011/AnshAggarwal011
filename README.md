@@ -1,16 +1,18 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ansh+Aggarwal!;" />
 </h1>
+<br></br>
 <h2 align="center">Aspiring Software Developer | Web Development & Problem-Solving Enthusiast</h2>
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
+<br></br>
 - 💬 Ask me about **MERN, NestJS, NextJS**
 
 - 📫 How to reach me **anshaggarwal1007@gmail.com**
 
 - 📄 Know about my experiences [Ansh_Resume](https://drive.google.com/file/d/14yWJQG3hE3cL3zX6II4lS-I6eUMs8Ks_/view?usp=drive_link)
-
+  
+<br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/@anshagg2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@anshagg2003" height="40" width="40" /></a>
